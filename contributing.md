@@ -118,4 +118,4 @@ Le bouton vert dans la section Démarrage rapide.
 
 ---
 
-*epic-rocket-927 · Mis à jour 2026-10-06 · Partagé sous licence MIT*
+*epic-rocket-927 · Mis à jour 2026-10-07 · Partagé sous licence MIT*
